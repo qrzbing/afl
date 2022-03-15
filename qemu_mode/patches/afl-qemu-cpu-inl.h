@@ -35,6 +35,7 @@
 
 #include <sys/shm.h>
 #include "../../config.h"
+#include "../qemu/include/exec/user/abitypes.h"
 
 /***************************
  * VARIOUS AUXILIARY STUFF *
