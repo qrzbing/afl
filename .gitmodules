@@ -1,0 +1,3 @@
+[submodule "qemu_mode/qemu"]
+	path = qemu_mode/qemu
+	url = git@github.com:qrzbing/qemu.git
